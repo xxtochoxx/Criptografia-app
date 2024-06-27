@@ -1,13 +1,12 @@
 # Nombre del grupo
 Cerbero 3141516 Asimétrico
 
-<br>
+# Integrantes
 ```bash
 > MELENDEZ FERNANDEZ HUMBERTO
 > BRAUNSTENI AXEL ARIEL
 > PADULA RUBEN DARIO
 ```
-<br>
 # Criptografia-app
 # Universidad Buenos aires
 TP - Curso Cripotografía 1
@@ -25,7 +24,7 @@ Desarrollar mediante código python simulación virtual y evaluar resultados.
 ## Instalación
 
 ```bash
-git clone https://github.com/xxtochoxx/Criptografia.git
+https://github.com/xxtochoxx/Criptografia-app.git
 cd Criptografia
 python 
 ```
