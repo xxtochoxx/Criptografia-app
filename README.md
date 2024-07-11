@@ -22,7 +22,7 @@ Desarrollar mediante código python simulación virtual y evaluar resultados.
 ## Instalación
 
 ```bash
-https://github.com/xxtochoxx/Criptografia-app.git
+git clone https://github.com/xxtochoxx/Criptografia-app.git
 cd Criptografia
 python install_tenseal.py
 ```
