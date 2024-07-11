@@ -1,10 +1,9 @@
 ## Nombre del grupo
-Cerbero 3141516 Asimétrico
+Cerbero Asimétrico
 
 ## Integrantes
 ```bash
 > MELENDEZ FERNANDEZ HUMBERTO
-> BRAUNSTENI AXEL ARIEL
 > PADULA RUBEN DARIO
 ```
 ## Universidad Buenos aires
